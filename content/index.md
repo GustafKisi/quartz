@@ -2,7 +2,7 @@
 title: Welcome to Quartz
 ---
 
-![Alt Text](https://tenor.com/bzafm.gif)
+<img src="https://tenor.com/bzafm.gif" width="40" height="40" />
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
